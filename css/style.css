@@ -1,0 +1,35 @@
+#main {
+   font-family: 'Alegreya', serif;
+}
+
+#title {
+  text-align: center;
+  font-size: 24px;
+}
+
+#img-div {
+  padding: 5px;
+  margin: 40px;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+
+#img-caption {
+  font-size: 20px;
+  text-align: center;
+}
+
+#tribute-info {
+  font-size: 24px;
+  margin: 40px;
+  text-align: justify;
+}
+
+#tribute-link {
+  font-weight: bold;
+}
